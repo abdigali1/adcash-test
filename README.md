@@ -1,6 +1,11 @@
-# test-adcash
+# Adcash test assignment
 
-This template should help get you started developing with Vue 3 in Vite.
+A small test assignment using Vue 3, Vite, Pinia and Vitest.
+
+A page is needed to help advertisers define a target audience for their advertisements.
+Targeting rules would then be used to serve the ads based on those selections.
+
+There is a folder called [example](https://github.com/abdigali1/adcash-test/tree/main/example) at the root folder, where you can see examples of component code and their tests from a previous project. Includes input, radio button, checkbox and button components and their testing examples. Also used Vue 3, Vite and Jest for testing. 
 
 ## Recommended IDE Setup
 
